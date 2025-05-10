@@ -5,7 +5,7 @@
 int main(int argc, char* argv[])
 {
 	initscr();
-	printw("Hello World !!!");
+	printw("Hello World !!");
 	refresh();
 	getch();
 	endwin();
