@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-	printf("BYEEEEEE");
+	printf("BYEE");
 	return 0;
 }
