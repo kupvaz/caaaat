@@ -15,11 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main2.c">
+    <ClCompile Include="maain.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="a.txt" />
   </ItemGroup>
 </Project>

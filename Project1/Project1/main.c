@@ -9,6 +9,6 @@ int main(int argc, char* argv[])
 	refresh();
 	getch();
 	endwin();
-
+	delscreen();
 	return 0;
 }
